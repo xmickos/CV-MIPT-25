@@ -4,7 +4,7 @@
 
 | Исходные данные            | Случайная выборка      | Voxel Grid           | FPS             |
 | -------------------------- | ---------------------- | -------------------- | --------------- |
-| ![Original](pics/originals.png) | ![Random](pics/randoms.png) | ![Voxel](pics/voxels.png) | ![FPS](fps.png) |
+| ![Original](pics/originals.png) | ![Random](pics/randoms.png) | ![Voxel](pics/voxels.png) | ![FPS](pics/fps.png) |
 
 ---
 
