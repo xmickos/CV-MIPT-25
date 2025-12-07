@@ -9,7 +9,7 @@
 
 **Условие:**
 [
-x \in [20,50],\quad y \in [30,70],\quad z \in [10,40]
+x ∈ [20,50], y ∈ [30,70], z ∈ [10,40]
 ]
 
 ![BBox Filtered](filtered.png)
