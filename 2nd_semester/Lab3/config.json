@@ -1,0 +1,31 @@
+{
+    "seed": 42,
+    "num_classes": 20,
+    "epochs": 15,
+    "batch_size": 16,
+    "lr": 0.002,
+    "num_points": 2048,
+    "feature_dim": 6,
+    "runs": 3,
+    "classes": [
+        "unknown",
+        "pipe",
+        "wire",
+        "wall",
+        "floor",
+        "ceiling",
+        "machine",
+        "desk",
+        "rack",
+        "boiler",
+        "conveyor",
+        "structure",
+        "infrastructure",
+        "roof",
+        "window",
+        "door",
+        "gate",
+        "terrain",
+        "facade"
+    ]
+}
